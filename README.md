@@ -5,8 +5,7 @@
 - 💞️ I’m looking as to :
 -     1. Start with FREELANCE Website-DEV.
 -     2.Learn some Devops and stuff.
-- 📫 you can reach me through:
-- a. www.twitter.com/TVinay004
+- 📫 you can reach me through
 - b. www.instagram.com/iam_vin03/
 
 <!---
