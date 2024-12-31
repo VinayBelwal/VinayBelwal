@@ -10,6 +10,7 @@
         2. Learning Cloud and Data.
 
   Open to :
+  
        Data Science-Analytics Jobs
   
   📫 you can reach me through :- vinaybelwal2004@gmail.com
