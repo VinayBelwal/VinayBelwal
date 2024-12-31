@@ -5,8 +5,9 @@
 - 🌱 Currently Learning & Building.
   
 - 💞️ I’m looking to :
-      1. More into Freelance&Projects.
-      2. Learning Cloud and Data.
+
+        1. More into Freelance&Projects.
+        2. Learning Cloud and Data.
 
   Open to :
        Data Science-Analytics Jobs
